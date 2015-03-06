@@ -1,6 +1,6 @@
 # Biomarker-Extraction
 
-Given an XML file with elibility information for a cancer study (using data from https://clinicaltrials.gov/ct2/results?term=NCT01625234&show_down=Y), returns the eligibility criteria that contain information about biomarkers.
+Given an XML file with eligibility information for a cancer study (using data from https://clinicaltrials.gov/ct2/results?term=NCT01625234&show_down=Y), returns the eligibility criteria that contain information about biomarkers.
 
 I.E. from the above study, we return the criteria: 
 "
